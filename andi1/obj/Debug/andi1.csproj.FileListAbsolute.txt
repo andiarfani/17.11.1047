@@ -1,0 +1,9 @@
+E:\1044\3\andi1\andi1\bin\Debug\andi1.exe.config
+E:\1044\3\andi1\andi1\bin\Debug\andi1.exe
+E:\1044\3\andi1\andi1\bin\Debug\andi1.pdb
+E:\1044\3\andi1\andi1\obj\Debug\andi1.csprojResolveAssemblyReference.cache
+E:\1044\3\andi1\andi1\obj\Debug\andi1.Form1.resources
+E:\1044\3\andi1\andi1\obj\Debug\andi1.Properties.Resources.resources
+E:\1044\3\andi1\andi1\obj\Debug\andi1.csproj.GenerateResource.Cache
+E:\1044\3\andi1\andi1\obj\Debug\andi1.exe
+E:\1044\3\andi1\andi1\obj\Debug\andi1.pdb
